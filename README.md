@@ -8,7 +8,7 @@ SheetFeed was developed primarily for use with the [RiseVision](https://www.rise
 
 SheetFeed requires a couple of dependent open source PHP projects as a writable cache directory on your web server. You will, of course, need a Google Sheet to publish from.
 
-I have included the versions of the dependencies I developed against in the repo, I STRONGLY suggest you get the latest verisons from the links below.
+I have included the versions of the dependencies I developed against in the repo, I STRONGLY suggest you get the latest versions from the links below.
 
 ### Prerequisites
 
@@ -24,9 +24,9 @@ You will need:
 To get it up and running:
 1. Create a directory on an existing website, or create a website for this purpose
 2. Create a web server writable 'cache' directory
-3. Downlod SheetFeed.php and place it in the web root for this project
-4. You may like to do some .htaccess trickey or rename SheetFeed.php to something useful
-5. Download [PhpSreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) and place an unmodified copy in the web root for this project
+3. Download SheetFeed.php and place it in the web root for this project
+4. You may like to do some .htaccess trickery or rename SheetFeed.php to something useful
+5. Download [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) and place an unmodified copy in the web root for this project
 6. Download [FeedWriter](https://github.com/mibe/FeedWriter) and place an unmodified copy in the web root for this project
 7. Edit SheetFeed.php and set the config[] array variables for your project
 
